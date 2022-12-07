@@ -4,6 +4,7 @@ gem "webrick"
 gem "sinatra"
 gem "sinatra-contrib"
 gem "erubis"
+gem "puma"
 
 gem "pg"
 
